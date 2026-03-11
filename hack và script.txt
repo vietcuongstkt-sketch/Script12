@@ -1,0 +1,6 @@
+script 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aloaloalo322/sssdas/refs/heads/main/cc"))()
+
+https://zufile.com/download/9erZJfK2M8
+
+https://zufile.com/download/nVvWWG4vnX
